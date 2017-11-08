@@ -16,9 +16,10 @@ The six possible exploits are:
 
 Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
 
-## Blue
+
 
 Vulnerability #1: SQL Injection (SQLi)
+## Blue
 
 ![sqli](https://user-images.githubusercontent.com/21352483/32309553-c5eea644-bf62-11e7-8270-0dd787036f06.gif)
 
@@ -29,10 +30,10 @@ I can log in in one browser and get the session id which can be use by pass logi
 
 
 
-## Green
+
 
 Vulnerability #1: Username Enumeration
-
+## Green
 ![username enumeration](https://user-images.githubusercontent.com/21352483/32309538-a6fae194-bf62-11e7-94d0-cadd00c6ae00.gif)
 
 Vulnerability #2: Cross-Site Scripting (XSS)
@@ -41,10 +42,11 @@ Vulnerability #2: Cross-Site Scripting (XSS)
 
 
 
-## Red
+
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
-![insecure direct object reference idor](https://user-images.githubusercontent.com/21352483/32302633-067658a2-bf3a-11e7-9536-7de53e44db81.gif)
+## Red
+![insecure direct object reference idor](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q2.gif)
 
 Vulnerability #2: cross-site request forgery csrf
 ![cross-site request forgery csrf](https://user-images.githubusercontent.com/21352483/32309186-396991c2-bf60-11e7-8667-19bfc78ec53a.gif)
