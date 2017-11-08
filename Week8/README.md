@@ -21,7 +21,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection (SQLi)
 ## Blue
 
-![sqli](https://user-images.githubusercontent.com/21352483/32309553-c5eea644-bf62-11e7-8270-0dd787036f06.gif)
+![sqli](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q3.gif)
 
 
 Vulnerability #2: Session Hijacking/Fixation
@@ -34,7 +34,7 @@ I can log in in one browser and get the session id which can be use by pass logi
 
 Vulnerability #1: Username Enumeration
 ## Green
-![username enumeration](https://user-images.githubusercontent.com/21352483/32309538-a6fae194-bf62-11e7-94d0-cadd00c6ae00.gif)
+![username enumeration](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q1.gif)
 
 Vulnerability #2: Cross-Site Scripting (XSS)
 ![cross-site scripting](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q4_XSS.gif)
