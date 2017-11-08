@@ -2,7 +2,7 @@
 Mohamed Sondo
 # Project 8 - Pentesting Live Targets
 
-Time spent: **15** hours spent in total
+Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -24,7 +24,9 @@ Vulnerability #1: SQL Injection (SQLi)
 
 
 Vulnerability #2: Session Hijacking/Fixation
-![session hijacking fixation](https://user-images.githubusercontent.com/21352483/32309050-61452086-bf5f-11e7-8d62-197bc0f243db.gif)
+I can log in in one browser and get the session id which can be use by pass login process in another browser. the session can be hijacked and steal users information.
+![session hijacking fixation](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/SessionHijackingBlueSite.gif)
+
 
 
 ## Green
@@ -34,7 +36,7 @@ Vulnerability #1: Username Enumeration
 ![username enumeration](https://user-images.githubusercontent.com/21352483/32309538-a6fae194-bf62-11e7-94d0-cadd00c6ae00.gif)
 
 Vulnerability #2: Cross-Site Scripting (XSS)
-![cross-site scripting](https://user-images.githubusercontent.com/21352483/32309733-0c2aad0a-bf64-11e7-872d-d19665a561e7.gif)
+![cross-site scripting](https://github.com/MohamedSondo/WebSecurity/blob/master/Week8/GIF/q4_XSS.gif)
 
 
 
