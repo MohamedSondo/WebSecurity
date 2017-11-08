@@ -14,7 +14,7 @@ Time spent: **7** hours spent in total
     - Fixed in version: 4.3
   - [x] GIF Walkthrough:
 
-<img src='https://github.com/MohamedSondo/Web_Security/blob/master/Week7/Week7_Images/gif1.gif' title='Movie 1' alt='Movie 1' />
+<img src='https://github.com/MohamedSondo/WebSecurity/blob/master/Week7/GIF/gif1.gif' title='gif 1' alt='gif 1' />
 
   - [x] Steps to recreate: Create a new post and place the following code in the body:
 
@@ -33,7 +33,7 @@ Time spent: **7** hours spent in total
     - Fixed in version: 4.6.1
   - [x] GIF Walkthrough:
 
-<img src='https://github.com/MohameSondo/WebSecurity/blob/master/Week7/Week7_Images/Mediajif.gif' title='imageGif' alt='imageGif' />
+<img src='https://github.com/MohamedSondo/WebSecurity/blob/master/Week7/GIF/Mediajif.gif' title='imageGif' alt='imageGif' />
 
   - [x] Steps to recreate: Create a new media post and upload an image with the following filename format:
 
@@ -52,7 +52,7 @@ Time spent: **7** hours spent in total
     - Fixed in version: 4.7.3
   - [x] GIF Walkthrough:
 
-<img src='https://github.com/MohamedSondo/Web_Security/blob/master/Week7/Week7_Images/YouTubeGif.gif' title='youtube video' alt='Youtube Video' />
+<img src='https://github.com/MohamedSondo/WebSecurity/blob/master/Week7/GIF/YoutubeGif.gif' title='youtube video' alt='Youtube Video' />
 
   - [x] Steps to recreate: Create a new page and place the following code in the body:
 
